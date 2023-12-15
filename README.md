@@ -29,7 +29,7 @@ To explore the world of Rickipedia locally, follow these instructions.
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/Rickipedia.git
+git clone https://github.com/PBarquinha/Rickipedia.git
 
 # Navigate to the project directory
 cd Rickipedia
