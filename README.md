@@ -22,7 +22,7 @@ Rickipedia is an interactive web application that serves as a portal to the univ
 
 ## Live Demo
 Experience Rickipedia live and dive into the multiverse of "Rick and Morty":
-[Rickipedia Live Demo](https://rickipedia-yourdemo.vercel.app/)
+[Rickipedia Live Demo](https://rickipedia-q1wp.vercel.app/)
 
 ## Getting Started
 To explore the world of Rickipedia locally, follow these instructions.
