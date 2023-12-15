@@ -34,9 +34,9 @@ git clone https://github.com/yourusername/Rickipedia.git
 # Navigate to the project directory
 cd Rickipedia
 
-# Install dependencies (if any)
+# Install dependencies
 npm install
 
-# Start the local server (if applicable)
+# Start the local server
 http-server
 
